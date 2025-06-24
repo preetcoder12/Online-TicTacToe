@@ -13,7 +13,7 @@ const App = () => {
   const wsRef = useRef(null);
 
   useEffect(() => {
-    const ws = new WebSocket("ws://localhost:3000");
+    const ws = new WebSocket("wss://online-tictactoe-backend.onrender.com");
 
     ws.onopen = () => {
       console.log("✅ WebSocket connected");
