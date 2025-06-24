@@ -1,9 +1,5 @@
 {
-  "projects": {
-    "frontend": {
-      "rootDirectory": "frontend"
-    }
-  },
+  "rootDirectory": "frontend",
   "buildCommand": "npm run build",
   "outputDirectory": "dist"
 }
