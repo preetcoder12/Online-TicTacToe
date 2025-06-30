@@ -19,6 +19,6 @@ Backend: Node.js and Express, hosted on Render.
 Live Deployment: Frontend on Vercel, backend on Render.
 
 🚀 Quick Links
-Play the Game: https://vercel.com/preets-projects-d62880f1/online-tic-tac-toe
+Play the Game: https://online-tic-tac-toe-pink.vercel.app/
 
 Backend API: https://online-tictactoe-backend.onrender.com/
